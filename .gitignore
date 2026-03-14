@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# notebooks
+*.ipynb
+
+# python cache
+__pycache__/
+*.pyc
+
+# environment
+venv/
+.env
+
+recommeder_model1.ipynb
